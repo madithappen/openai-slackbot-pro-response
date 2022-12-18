@@ -17,7 +17,7 @@ Pro Response is a Slackbot designed to enhance written communication within a te
 ## Installation
 - Clone the repository and navigate to the root directory:
 ```bash
-git clone https://github.com/<your_username>/pro-response-slackbot.git
+git clone https://github.com/madithappen/pro-response-slackbot.git
 cd pro-response-slackbot
 ```
 
