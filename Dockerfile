@@ -1,7 +1,6 @@
 FROM python:3.8-slim
 
 LABEL name ="slackbot-openai-pro-response" \
-      maintainer="Stephen M Abbott <stephenabbott20@gmail.com>" \
       version="1.0"
 
 # Set the working directory
