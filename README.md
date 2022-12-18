@@ -66,4 +66,4 @@ Please see [create_and_configure_slackbot.md](docs/create_and_configure_slackbot
 
 
 ## Contributing
-Pull requests are welcome.
+Pull requests are welcomed.
