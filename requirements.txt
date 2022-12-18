@@ -1,0 +1,4 @@
+load_dotenv
+Flask
+slack_sdk
+openai
